@@ -1,9 +1,9 @@
+ import java.util.*;
 class MyJava{
   public static void main (String args[]){
   String input= "learning java is very easy from ashish sir";
-  import java.util.*;
-public class ReverseString {
-    public static void main(String[] args) {
+ 
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string you want to reverse :");
         String str = sc.nextLine();
@@ -31,4 +31,4 @@ public class ReverseString {
 }
 
 
-  }}
+  
