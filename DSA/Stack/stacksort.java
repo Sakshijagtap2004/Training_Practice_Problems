@@ -59,7 +59,7 @@ public void sortStack() {
 
         tempStack.push(temp);
     }
-
+    //dnkcn
     while (!tempStack.isEmpty()) {
         push(tempStack.pop());
     }
